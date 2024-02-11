@@ -2,7 +2,7 @@
 
 ## Description
 
-CLI resource managment program in Java 
+CLI resource managment program in **Java** 
 
 
 ## Compile and run
@@ -12,7 +12,7 @@ javac *.java
 java MainApp
 ```
 
-## Example
+## Examples
 
 ![image](/classes.png) 
 
